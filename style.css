@@ -371,6 +371,15 @@ section {
     text-transform: uppercase;
 }
 
+.quality__description {
+    max-width: 576px;
+    margin-right: 64px;
+}
+
+.quality__description, .quality__img--wrapper {
+    width: 50%;
+}
+
 
 .section_title {
     font-size: 48px;
